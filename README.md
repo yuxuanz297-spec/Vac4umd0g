@@ -7,4 +7,4 @@ the function is defined as quick falling function,which meets the need of mutati
 the function is easy to debug,there is only 3 coefficients:the coefficient of the left/right,the coefficient of the function itself and the coefficient of the expoential power.
 If you can't understand,just click the integrity.py to see.
 Another video has been uploaded to YouTube,the link is https://youtu.be/AMWX23mVU9k.
-The advanced code is integrity_pro.py.
+The advanced code is integrity_pro.py,and link is https://youtu.be/yol5t98t0PI.
